@@ -6,3 +6,11 @@ D:\Git\AngularJS\APIWithAngular\LearnAutofac\LearnAutofac\bin\Debug\Autofac.xml
 D:\Git\AngularJS\APIWithAngular\LearnAutofac\LearnAutofac\obj\Debug\LearnAutofac.csprojResolveAssemblyReference.cache
 D:\Git\AngularJS\APIWithAngular\LearnAutofac\LearnAutofac\obj\Debug\LearnAutofac.exe
 D:\Git\AngularJS\APIWithAngular\LearnAutofac\LearnAutofac\obj\Debug\LearnAutofac.pdb
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac\bin\Debug\LearnAutofac.exe.config
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac\obj\Debug\LearnAutofac.exe
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac\obj\Debug\LearnAutofac.pdb
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac\bin\Debug\LearnAutofac.exe
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac\bin\Debug\LearnAutofac.pdb
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac\bin\Debug\Autofac.dll
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac\bin\Debug\Autofac.xml
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac\obj\Debug\LearnAutofac.csprojResolveAssemblyReference.cache
