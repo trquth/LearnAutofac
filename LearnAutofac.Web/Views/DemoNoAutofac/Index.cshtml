@@ -1,0 +1,24 @@
+﻿@model LearnAutofac.Web.Models.PersonViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+    <h2>Demo Without Autofac IoC framework</h2>    
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Social Security Number</th>
+            </tr>
+        </thead>
+        <tbody>
+                <tr>
+                    <td>@Model.Name</td>
+                    <td>@Model.Age</td>
+                    <td>@Model.SocialSecurityNumber</td>
+                </tr>                    
+        </tbody>
+    </table>
+</div>

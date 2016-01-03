@@ -8,6 +8,6 @@ namespace LearnAutofac
 {
     public interface ITeacherRepository
     {
-        void Print(Teacher teacher);
+      
     }
 }

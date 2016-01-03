@@ -1,0 +1,5 @@
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac.Entity\bin\Debug\LearnAutofac.Entity.dll
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac.Entity\bin\Debug\LearnAutofac.Entity.pdb
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac.Entity\obj\Debug\LearnAutofac.Entity.csprojResolveAssemblyReference.cache
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac.Entity\obj\Debug\LearnAutofac.Entity.dll
+D:\Git\AngularJS\IoC Autofac\LearnAutofac\LearnAutofac.Entity\obj\Debug\LearnAutofac.Entity.pdb
