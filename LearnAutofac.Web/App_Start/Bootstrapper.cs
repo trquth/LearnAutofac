@@ -19,10 +19,17 @@ namespace LearnAutofac.Web.App_Start
         }
         public static void SetAutofacContainer()
         {
+            //Create the builder
             var builder = new ContainerBuilder();
+            //Register controllers so dependencies are contructor injected
             builder.RegisterControllers(Assembly.GetExecutingAssembly());
-            builder.RegisterType(typeof(PersonRepository)).As(typeof(IPersonRepository)).InstancePerDependency();
+            //Register dependencies
+            //builder.RegisterType(typeof(PersonRepository)).As(typeof(IPersonRepository)).InstancePerDependency();
+            builder.RegisterAssemblyTypes(typeof(PersonRepository).Assembly).Where(t => t.Name.EndsWith("Repository"))
+                .AsImplementedInterfaces().InstancePerDependency();
+            //Build container 
             IContainer container = builder.Build();
+            //Replace the MVC dependcy resolver with Autofac
             DependencyResolver.SetResolver(new AutofacDependencyResolver(container));
         }
     }
